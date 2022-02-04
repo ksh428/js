@@ -1,0 +1,5 @@
+while pushing to github u will now req to use a personal access token
+so in place of writing the password just paste the pat
+//only need to do once the pat is generated after this no need for authentication
+//pat may expire after 2 months so create a new pat and save it smewhere and
+while pushing paste it in place of password
